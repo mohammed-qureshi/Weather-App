@@ -1,3 +1,3 @@
 # Weather-App
-JavaScript Project
+JavaScript Project,  
 I wrote all the code in this project. 
