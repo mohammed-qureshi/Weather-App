@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(92, 94, 211);
+    text-align: center;
+}
+
+#city {
+    text-align: center;
+    font-size: 1.5em;
+    padding: 9px;
+    width: 75%;
+    margin-bottom: 1em;
+    background-color: lightgray;
+    border: white;
+}
+
+#image1, #image2 {
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.header {
+    font-size: 2em;
+    color: white;
+    padding: 1.5em;
+}
+
+.main_div {
+    background-color: rgb(132, 199, 223);
+    border-radius: 10px;
+    width: 50%;
+    min-width: 300px;
+    padding-bottom: 12px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.temp, .condition, .desc {
+    font-size: 1.5em;
+}
